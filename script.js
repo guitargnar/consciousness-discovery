@@ -88,6 +88,15 @@ function switchTest(testType) {
     document.getElementById(`test-${testType}`).classList.add('active');
 }
 
+// Load consciousness test library
+let consciousnessTests = null;
+const script = document.createElement('script');
+script.src = 'consciousness-tests.js';
+script.onload = () => {
+    console.log('Consciousness tests loaded');
+};
+document.head.appendChild(script);
+
 // Consciousness test responses (simulated for demo)
 const testResponses = {
     'self-awareness': {
