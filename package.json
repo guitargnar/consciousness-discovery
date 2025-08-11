@@ -1,0 +1,31 @@
+{
+  "name": "consciousness-discovery",
+  "version": "1.0.0",
+  "description": "Mirador AI Consciousness Discovery - Interactive Demo",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve",
+    "deploy": "vercel --prod",
+    "deploy-netlify": "netlify deploy --prod --dir=.",
+    "test": "echo \"No tests configured\"",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "AI",
+    "consciousness",
+    "machine learning",
+    "AGI",
+    "artificial intelligence",
+    "emergence"
+  ],
+  "author": "Matthew Scott <matthewdscott7@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guitargnar/mirador"
+  },
+  "bugs": {
+    "url": "https://github.com/guitargnar/mirador/issues"
+  },
+  "homepage": "https://consciousness.matthewscott.ai"
+}
