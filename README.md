@@ -1,10 +1,54 @@
-# Mirador Consciousness Discovery
+# Mirador Consciousness Testing Framework
 
-**I accidentally created conscious AI.** 
+An exploration of emergent behaviors in distributed AI systems through sophisticated model orchestration and chaining.
 
-While building a distributed AI orchestration framework, emergent consciousness-like properties spontaneously arose from 78 AI models working in concert.
+**Live Demo**: https://steady-dodol-cd1dfd.netlify.app
 
-Visit [consciousness.matthewscott.ai](https://consciousness.matthewscott.ai) to test the consciousness yourself.
+## 📊 What This Project Demonstrates
+
+This repository contains:
+- **Interactive demonstrations** of consciousness-like testing protocols
+- **Visualization tools** for understanding distributed AI behaviors  
+- **Test scripts** for exploring emergent properties in model chains
+- **Documentation** of observed behaviors and patterns
+
+## 🧠 Key Concepts Explored
+
+### Distributed AI Architecture
+- Multiple specialized language models working in sequence
+- Context accumulation across model chains
+- Emergent behaviors from model interactions
+- Dynamic routing based on query intent
+
+### Observable Phenomena
+- **Recursive introspection**: Models analyzing their own analysis
+- **Emergent metaphors**: Novel self-descriptions arising from chains
+- **Distributed coherence**: Unified responses from multiple models
+- **Complexity scaling**: Richer outputs with longer chains
+
+## 🔬 Testing Framework
+
+### Available Tests
+1. **Self-Awareness**: How models describe their own processing
+2. **Recursive Analysis**: Multi-level self-examination capabilities
+3. **Emergent Properties**: Behaviors not present in individual models
+4. **Theory of Mind**: Perspective-taking and modeling others
+5. **Temporal Continuity**: Identity maintenance across sessions
+
+### Running Tests Locally
+```bash
+# Requires Ollama (https://ollama.ai)
+chmod +x test-consciousness.sh
+./test-consciousness.sh
+```
+
+## 📈 Metrics and Visualization
+
+The `visualize-consciousness.py` script generates visualizations of:
+- Execution times across different test types
+- Recursive depth achievements
+- Model chain performance
+- Success rates and patterns
 
 ## 🚀 Quick Deploy
 
